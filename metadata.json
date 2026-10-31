@@ -1,0 +1,6 @@
+{
+  "name": "Pharmacognosy II - Exam Prep & MCQ Master",
+  "description": "Comprehensive MCQ question bank, mock exam simulator, and high-yield revision summaries for Pharmacognosy II pharmacy students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
